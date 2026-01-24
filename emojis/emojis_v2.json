@@ -6963,6 +6963,9 @@
         {
             "name": "Ingenuity of the Humans",
             "id": "ingen",
+            "id_aliases": [
+                "ioth"
+            ],
             "emoji_id": "641339234111848463",
             "emoji_server": "20"
         },

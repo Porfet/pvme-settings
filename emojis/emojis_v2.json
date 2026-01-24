@@ -6116,6 +6116,11 @@
         {
             "name": "Soul Strike Flank",
             "id": "soulstrikeflank",
+            "id_aliases": [
+                "necroflank",
+                "flanksoulstrike",
+                "flanknecro"
+            ],
             "emoji_id": "1156683164593430579",
             "emoji_server": "40"
         },

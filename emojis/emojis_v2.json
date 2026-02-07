@@ -6932,6 +6932,9 @@
         {
             "name": "Essence of Finality (Ability)",
             "id": "eofspec",
+            "id_aliases": [
+                "espec"
+            ],
             "emoji_id": "1257438999794946099",
             "emoji_server": "10"
         },
